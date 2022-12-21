@@ -153,7 +153,13 @@ picker.on('emoji', emoji => {
 trigger.addEventListener('click', () => picker.togglePicker(trigger));
 
 
-
+menu.addEventListener("click", () => {
+  if (document.querySelector(".users-side").style.display == "none") {
+    document.querySelector(".users-side").style.display = "block"
+  }else {
+    document.querySelector(".users-side").style.display = "none"
+  }
+})
 
 
 
