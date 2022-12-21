@@ -9,6 +9,7 @@ import { read, write } from './utils/model.js';
 import userRouter from './routes/user.router.js';
 import messageRouter from './routes/message.route.js'
 import jwt from './utils/jwt.js';
+const PORT = process.env.PORT || 4321
 
 
 const app = express();
@@ -103,4 +104,4 @@ io.on("connection", (socket) => {
     }
 });
 
-server.listen(4321, () => console.log("server started at 4321"));
+server.listen(PORT, () => console.log("server started at " + PORT));
