@@ -195,7 +195,7 @@ input[type="file"] {
 
 .profile-side {
     width: 23%;
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: center;
 }
