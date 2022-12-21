@@ -5,7 +5,7 @@
         "avatar": "1671358171621photo_2022-12-03_00-19-46.jpg",
         "userId": 1,
         "created_at": "18 Dekabr 2022 15:09",
-        "socketId": null
+        "socketId": "t-Z-VKtj8j4L1yEHAAAB"
     },
     {
         "username": "Iroda",
@@ -22,5 +22,21 @@
         "userId": 3,
         "created_at": "18 Dekabr 2022 15:09",
         "socketId": null
+    },
+    {
+        "username": "Irodaa",
+        "password": "7ace62ec25f0591921c036eaee4cb2ebc95ebb8e0125f664c56a08ebc5da79a4",
+        "avatar": "16716373229021f8ff8c1-2a35-4d59-a425-49b3d24a572e.jpeg",
+        "userId": 4,
+        "created_at": "21 Dekabr 2022 20:42",
+        "socketId": "w5ZPHE6t8xjUlDvHAAAF"
+    },
+    {
+        "username": "Waterman",
+        "password": "cfcd650bffa27ddb6d65197835191a5bdf3601921ca8cf5884ec1721b23f35f2",
+        "avatar": "1671638045911390F62EE-6717-4461-9A49-FCB93079E755.jpeg",
+        "userId": 5,
+        "created_at": "21 Dekabr 2022 20:54",
+        "socketId": "e27Dv6vu8eAwomvdAAAN"
     }
 ]
